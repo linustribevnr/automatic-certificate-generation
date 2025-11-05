@@ -34,6 +34,9 @@ For the email body, seperate new lines with a `<br/>`. Note that in the `partici
 
 - The participants excel file must have atleast `Name` and `Email` columns. Note that these column names are *case-sensitive*.
 
+## MUST DO THIS FOR GOOD FORMATTING:
+- we need to add a sample name in the excel file, that is very large and just enough to fill the whole name placeholder line. If this large name is formatted well, then all other names will be formatted good(to the center).
+
 ## Generating Certificates & Sending Emails:
 
 - Run `main_script.py` file using the following command in the command line at the root directory: `python main_script.py`.
